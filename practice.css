@@ -1,0 +1,51 @@
+*{
+    margin: 5px;
+    
+}
+#learned{
+    display: flex;
+    justify-content: center;
+    color: burlywood;
+
+}
+.para{
+    border: 4px solid indianred;
+    margin: 20px;
+    padding: 15px;
+    border-radius: 15px;
+    font-weight: 600;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: gray;
+    font-style: italic;
+}
+.para2{
+    border: 4px solid rgb(203, 186, 50);
+    margin: 20px;
+    padding: 15px;
+    border-radius: 15px;
+    font-weight: 600;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: gray;
+}
+.para3{
+    border: 4px solid rgb(42, 132, 168);
+    margin: 20px;
+    padding: 15px;
+    border-radius: 15px;
+    font-weight: 600;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: gray;
+}
+
+#main{
+    /* background-image: url("background-img.jpg"); */
+    background-repeat: no-repeat;
+    background-size: contain;
+    /* border-radius: 20px; */
+    background-color: aquamarine;
+    padding: 20px;
+}
+.bg{
+    background-image: url("bg.jpg");
+    border-radius: 15px;
+}

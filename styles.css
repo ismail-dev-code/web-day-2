@@ -1,0 +1,39 @@
+h2 {
+  font-size: 30px;
+  text-decoration: overline;
+  margin: 15px 20px;
+  text-align: justify;
+}
+.blog {
+  border: 10px solid indianred;
+  margin: 40px;
+  box-shadow: 10px 10px 20px blueviolet;
+  border-radius: 15px;
+  padding: 10px;
+}
+.new{
+  background-color: aqua;
+}
+.box {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.third {
+  /* display: none; */
+  /* visibility: hidden; */
+}
+.header {
+  height: 300px;
+  /* background-color: bisque; */
+  background-image: url("stateofmind.avif");
+  /* background-repeat: no-repeat; */
+  /* background-repeat: repeat-x; */
+  background-position: left;
+  width: 500%;
+  /* background: center */
+  background-size: contain;
+  background-repeat: repeat-x;
+  background-clip: 500px;
+}
